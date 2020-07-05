@@ -1,2 +1,2 @@
 # 2D-Project
- 2D Practice...First Game
+ First Game on the Unity Engine... mainly just to practice and learn new concepts
